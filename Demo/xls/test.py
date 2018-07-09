@@ -1,0 +1,2 @@
+str = 'none'
+print(str)
